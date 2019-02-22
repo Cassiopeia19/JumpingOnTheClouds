@@ -1,5 +1,5 @@
 # JumpingOnTheClouds
-Hacker Rank's Coding Challenge
+Hacker Rank's Coding Challenge:  Print the minimum number of jumps needed to win the game.
 
 import java.io.*;
 import java.util.*;
